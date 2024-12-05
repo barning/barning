@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">Product Designer & Digital Tinkerer from Bremen</h3>
 
-- 👨🏻‍💻 I’m currently working at [New Work SE](https://www.new-work.se)
-
 - 🌱 I’m currently learning **SwiftUI**
 
 - ⛵️ I’m one of the founders of [norden.social](https://norden.social)
